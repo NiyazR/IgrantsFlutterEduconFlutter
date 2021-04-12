@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "781896361424",
+    "firebase_url": "https://igrants.firebaseio.com",
+    "project_id": "igrants",
+    "storage_bucket": "igrants.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781896361424:android:23c7da021fe08449bc85d5",
+        "android_client_info": {
+          "package_name": "kz.school.Igrants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781896361424-deeolkh3u55olef7fqtvd012ci3fokac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwb-6rdjQRIbMo2vpyTec6ef7L4_vXGE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781896361424-deeolkh3u55olef7fqtvd012ci3fokac.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "781896361424-m8gdfmmggqq6pn8ps15s5eoir2e7tlsp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kz.school.Igrants"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781896361424:android:f8800b216115dc9ebc85d5",
+        "android_client_info": {
+          "package_name": "kz.school.grants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781896361424-deeolkh3u55olef7fqtvd012ci3fokac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwb-6rdjQRIbMo2vpyTec6ef7L4_vXGE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781896361424-deeolkh3u55olef7fqtvd012ci3fokac.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "781896361424-m8gdfmmggqq6pn8ps15s5eoir2e7tlsp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kz.school.Igrants"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
